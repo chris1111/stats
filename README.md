@@ -21,7 +21,8 @@ macOS system monitor in your menu bar
 
 ## Installation
 ### Manual
-You can download the latest version [here](https://github.com/exelban/stats/releases/latest/download/Stats.dmg).
+You can download the latest version [here](https://github.com/chris1111/stats/releases/tag/v2.11.61)
+
 This will download a file called `Stats.dmg`. Open it and move the app to the application folder.
 
 ### Homebrew
