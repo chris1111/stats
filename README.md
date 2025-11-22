@@ -19,6 +19,10 @@
 
 macOS system monitor in your menu bar
 
+#### Clone and Build: 
+
+ `git clone https://github.com/chris1111/stats.git && cd $HOME/stats && make`
+
 ## Installation
 ### Manual
 You can download the latest version [here](https://github.com/chris1111/stats/releases/tag/v2.11.61)
