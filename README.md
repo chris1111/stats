@@ -19,9 +19,10 @@
 
 macOS system monitor in your menu bar
 
-#### Clone and Build: 
-
- `git clone https://github.com/chris1111/stats.git && cd $HOME/stats && make`
+#### `Clone and Build:` 
+```bash
+ git clone https://github.com/chris1111/stats.git && cd $HOME/stats && make
+```
 
 ## Installation
 ### Manual
