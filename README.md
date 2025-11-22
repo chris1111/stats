@@ -14,8 +14,8 @@
 
 <a href="https://github.com/exelban/stats/releases"><p align="center"><img src="https://github.com/exelban/stats/raw/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" width="120"></p></a>
 
-[![Stats](https://serhiy.s3.eu-central-1.amazonaws.com/Github_repo/stats/menus%3Fv2.3.2.png?v1)](https://github.com/exelban/stats/releases)
-[![Stats](https://serhiy.s3.eu-central-1.amazonaws.com/Github_repo/stats/popups%3Fv2.3.2.png?v3)](https://github.com/exelban/stats/releases)
+[![Stats](https://serhiy.s3.eu-central-1.amazonaws.com/Github_repo/stats/menus%3Fv2.3.2.png?v1)](https://github.com/chris1111/stats/releases/tag/v2.11.61)
+[![Stats](https://serhiy.s3.eu-central-1.amazonaws.com/Github_repo/stats/popups%3Fv2.3.2.png?v3)](https://github.com/chris1111/stats/releases/tag/v2.11.61)
 
 macOS system monitor in your menu bar
 
@@ -24,12 +24,6 @@ macOS system monitor in your menu bar
 You can download the latest version [here](https://github.com/chris1111/stats/releases/tag/v2.11.61)
 
 This will download a file called `Stats.dmg`. Open it and move the app to the application folder.
-
-### Homebrew
-To install it using Homebrew, open the Terminal app and type:
-```bash
-brew install stats
-```
 
 ### Legacy version
 Legacy version for older systems could be found [here](https://mac-stats.com/downloads).
